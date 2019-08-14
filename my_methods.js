@@ -11,3 +11,13 @@ function* range(start, end) {
 // console.log([...range(1, 5)]);
 
 // for (let num of range(1,5)) console.log(num);
+
+/***********
+  average
+***********/
+function ArrayAverage(array) {
+  const reducer = (accumulator, currentValue) => accumulator + currentValue;
+  const sum = array.reduce(reducer);
+  const average = sum / array.length;
+  return average;
+}
