@@ -151,3 +151,17 @@ String and Text Processing
     Sentiment Analysis 2
     Longest Sentence
 
+A General Problem Solving Approach
+
+    The "PEDAC" Problem Solving Process
+    Understanding the Problem and Writing Test Cases
+    An Example Problem: Comparing Version Numbers
+    Understand the Problem and Requirements (1)
+    Understand the Problem and Requirements (2)
+    FAQ on the First Two Steps of the PEDAC Process
+    Create Examples / Test Cases
+    Work with Data Structure and Algorithm
+    Translate Algorithm Steps Into Code
+    Run Test Cases To Verify and Debug Code
+    Watch Others Code Series
+    Practice Problems
